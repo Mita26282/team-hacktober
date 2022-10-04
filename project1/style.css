@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #EEF1FF;
+    border-radius: 30px;
+    
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float:left;
+    list-style: none; 
+    
+    margin: 10px 20px;
+    
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: #5C2E7E;
+}
+.navbar li a:hover{
+    color: red
+}
+
+
